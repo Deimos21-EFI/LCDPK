@@ -1,3 +1,3 @@
 function msgFromGoogleDrive() {
-   alert("hello ggogle drive");
+   alert("hello google drive");
 }
